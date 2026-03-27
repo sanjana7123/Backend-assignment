@@ -2,7 +2,7 @@
 
 REST API for managing users with proper MVC architecture.
 
-**Live Demo**: [Add your deployed URL here]
+**Live Demo**: https://backend-assignment-ecoo.onrender.com
 
 ## Project Structure
 
