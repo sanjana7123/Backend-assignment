@@ -32,6 +32,8 @@ npm start
 
 Server runs on `http://localhost:3000`
 
+Deployment Link : `https://backend-assignment-ecoo.onrender.com`
+
 ## API Endpoints
 
 ### GET /users
